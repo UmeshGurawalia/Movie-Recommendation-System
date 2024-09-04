@@ -35,6 +35,6 @@ Generating Recommendations:
 When a user inputs a movie title, the system retrieves the corresponding feature vector and computes the similarity with all other movies in the dataset. The top N most similar movies are recommended to the user.
 
 ## Point to note
-similarity.pkl movue_list.pkl
+similarity.pkl movie_list.pkl
 
 This two are large file so download manully after creating the model from Movie_Recommendation_System.ipynb
