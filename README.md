@@ -41,3 +41,8 @@ This two are large file so download manully after creating the model from Movie_
 
 ### Demo Images
 
+<img width="944" alt="image1" src="https://github.com/user-attachments/assets/228aaf52-8498-45be-be97-ef0c623b3e13">
+
+<img width="947" alt="image2" src="https://github.com/user-attachments/assets/3dceaa76-d0fa-4593-82c8-a83922dba25e">
+
+<img width="949" alt="image3" src="https://github.com/user-attachments/assets/129470bb-834f-4ce3-8566-33f7b78b26b7">
