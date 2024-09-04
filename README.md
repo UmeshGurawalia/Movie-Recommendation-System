@@ -38,3 +38,6 @@ When a user inputs a movie title, the system retrieves the corresponding feature
 similarity.pkl movie_list.pkl
 
 This two are large file so download manully after creating the model from Movie_Recommendation_System.ipynb
+
+### Demo Images
+
